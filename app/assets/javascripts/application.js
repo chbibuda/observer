@@ -10,6 +10,7 @@
 // WARNING: THE FIRST BLANK LINE MARKS THE END OF WHAT'S TO BE PROCESSED, ANY BLANK LINE SHOULD
 // GO AFTER THE REQUIRES BELOW.
 //
+//= require foundation
 //= require jqplot/jquery.jqplot.js
 //= require jqplot/plugins/jqplot.dateAxisRenderer
 //= require mixins/eventable
@@ -19,7 +20,6 @@
 //= require observer/keyboard
 //= require modules/jqplot
 //= require modules/data_set
-//= require foundation
 //= require modules/alert_modal
 //= require jquery_ujs
 //= require bower_components/moment/moment
